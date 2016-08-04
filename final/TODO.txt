@@ -1,0 +1,5 @@
+recorded_file_256x256.png  黑色变成透明
+bug_file_256X256.png 黑色变成透明
+
+pause_b.png
+stop_b.png 黑色变成透明
